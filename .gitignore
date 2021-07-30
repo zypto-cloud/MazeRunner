@@ -15,3 +15,6 @@ Framework/img2maze/img2maze.egg-info
 Teams/ReferenceSolutionAStarCPP/build
 **/__pycache__/
 coverage.xml
+
+# Virtual Environment
+venv/
